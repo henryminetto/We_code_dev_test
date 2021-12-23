@@ -1,0 +1,296 @@
+html, body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #EEEDF2;
+}
+
+.Grupo1 {
+    position:absolute;
+    width: 40%;
+    height: 55%;
+    left: 5%;
+    top: 35%;
+}
+
+.Summer {
+    position: absolute;
+    width: 50%;
+    height: 20%;   
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 1500%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.CAMP21 {
+    position: absolute;
+    width: 50%;
+    height: 20%;
+    top: 40%;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 1600%; 
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.signup {
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 150%;
+    text-align: center;
+    color: #FCFCFC;
+    /* Rectangle 1066 */
+    position: absolute;
+    width: 25%;
+    height: 16%;
+    left: 70%;
+    top: 100%;
+    background: linear-gradient(90deg, #F48743 0%, #F35E41 100%);
+    border-radius: 99px;
+    border:0;
+}
+
+.texto {
+    position: absolute;
+    top: 0;
+    left: 5%;
+    height: 100%;
+    width: 94%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 150%;
+    color: #C4C4C4;
+    border: 0;
+    background: 0
+}
+
+
+.email {   
+    /* Rectangle 1065 */
+    position: absolute;
+    width: 100%;
+    height: 30%;
+    left:0;
+    top: 93%;
+    background: #FFFFFF;
+    border-radius: 99px;
+}
+
+
+.grupo2 {
+    position: absolute;
+    width: 25%;
+    height: 20%;
+    left: 60%;
+    top: 90%;
+}
+
+.grupo3 {
+    position: absolute;
+    width: 25%;
+    height: 20%;
+    left: 35%;
+    top: 90%;
+}
+
+.grupo4 {
+    position: absolute;
+    width: 25%;
+    height: 20%;
+    left: 5%;
+    top: 90%;
+}
+
+.l11 {
+    position: absolute;
+    width: 10%;
+    height: 15%;
+    left:58%;
+    top: 72%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E95F45;
+}
+
+.lorem2 {
+    position: absolute;
+    width: 60%;
+    height: 7%;
+    left: 80%;
+    top: 100%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 150%;
+    color: #333333;
+}
+
+.l8 {
+    position: absolute;
+    width: 10%;
+    height: 15%;
+    left: 20%;
+    top: 72%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E95F45;
+}
+
+.lorem3 {
+    position: absolute;
+    width: 60%;
+    height: 7%;
+    left: 45%;
+    top: 100%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 150%;
+    color: #333333;
+}
+
+.l23 {
+    position: absolute;
+    width: 10%;
+    height: 15%;
+    left: 0;
+    top: 72%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E95F45;
+}
+
+.lorem4 {
+    position: absolute;
+    width: 60%;
+    height: 7%;
+    left: 40%;
+    top: 100%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 150%;
+    color: #333333;
+}
+
+.camp {
+    position: fixed;
+    width: 5%;
+    height: 6%;
+    left: 5%;
+    top: 8%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 300%;
+    text-align: center;
+    color: #000000;            
+}
+
+.barra {
+    position: fixed;
+    width: 5%;
+    height: 6%;
+    left: 9%;
+    top: 8%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 300%;
+    text-align: center;
+    color: #F35E41;
+}
+
+.about {
+    position: fixed;
+    width: 6%;
+    height: 6%;
+    left: 35%;
+    top: 9%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 250%;
+    text-align: center;
+    color: #333333;
+}
+
+.news {
+    position: fixed;
+    width: 6%;
+    height: 6%;
+    left: 47%;
+    top: 9%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 250%;
+    text-align: center;
+    color: #333333;
+}
+
+.signup2 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 30%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 180%;
+    line-height: 100%;
+    text-align: center;
+    color: #FFFFFF;
+}
+.box{
+    position: fixed;
+    width: 11%;
+    height: 7%;
+    left: 85%;
+    top: 8%;
+    background: #333333;
+    border-radius: 100px;
+}
+
+.campfire {
+    position:absolute;
+    width: 40%;
+    height: 100%;
+    left: 60%;
+    top: 5%;        
+}
+
+.hello {
+    position: fixed;
+    width: 6%;
+    height: 6%;
+    left: 23%;
+    top: 9%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 250%;
+    text-align: center;
+    color: #333333;
+}
+    

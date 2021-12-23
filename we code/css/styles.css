@@ -19,7 +19,7 @@ html, body {
     height: 20%;   
     font-family: Poppins;
     font-weight: bold;
-    font-size: 1500%;
+    font-size: 1300%;
     text-align: center;
     text-transform: uppercase;
     color: #333333;
@@ -32,7 +32,7 @@ html, body {
     top: 40%;
     font-family: Poppins;
     font-weight: bold;
-    font-size: 1600%; 
+    font-size: 1300%; 
     text-align: center;
     text-transform: uppercase;
     color: #333333;
@@ -118,7 +118,7 @@ html, body {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 1100%;
+    font-size: 1000%;
     text-align: center;
     text-transform: uppercase;
     color: #E95F45;
@@ -126,7 +126,7 @@ html, body {
 
 .lorem2 {
     position: absolute;
-    width: 60%;
+    width: 70%;
     height: 7%;
     left: 80%;
     top: 100%;
@@ -146,7 +146,7 @@ html, body {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 1100%;
+    font-size: 1000%;
     text-align: center;
     text-transform: uppercase;
     color: #E95F45;
@@ -154,7 +154,7 @@ html, body {
 
 .lorem3 {
     position: absolute;
-    width: 60%;
+    width: 70%;
     height: 7%;
     left: 45%;
     top: 100%;
@@ -174,7 +174,7 @@ html, body {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 1100%;
+    font-size: 1000%;
     text-align: center;
     text-transform: uppercase;
     color: #E95F45;
@@ -182,7 +182,7 @@ html, body {
 
 .lorem4 {
     position: absolute;
-    width: 60%;
+    width: 70%;
     height: 7%;
     left: 40%;
     top: 100%;
@@ -211,7 +211,7 @@ html, body {
     position: fixed;
     width: 5%;
     height: 6%;
-    left: 9%;
+    left: 10%;
     top: 8%;
     font-family: Poppins;
     font-style: normal;
@@ -230,7 +230,7 @@ html, body {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 250%;
+    font-size: 200%;
     text-align: center;
     color: #333333;
 }
@@ -244,7 +244,7 @@ html, body {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 250%;
+    font-size: 200%;
     text-align: center;
     color: #333333;
 }
@@ -257,7 +257,7 @@ html, body {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 180%;
+    font-size: 150%;
     line-height: 100%;
     text-align: center;
     color: #FFFFFF;
@@ -289,7 +289,7 @@ html, body {
     font-family: Poppins;
     font-style: normal;
     font-weight: bold;
-    font-size: 250%;
+    font-size: 200%;
     text-align: center;
     color: #333333;
 }
